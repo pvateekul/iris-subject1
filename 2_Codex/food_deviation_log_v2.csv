@@ -1,0 +1,29 @@
+date,product,process_step,issue_type,severity,root_cause,action_taken,downtime_min,batch_id,detected_by,facility,shift
+2026-05-13,Ready-to-eat Salad,Washing,Chlorine level out of range,High,Sanitizer dosing pump drifted,Adjusted dosing pump and rechecked chlorine level,32,B-2001,QA Inspector,Plant A,Morning
+2026-05-13,Frozen Dumpling,Cooking,Core temperature low,Critical,Steam pressure dropped below validated limit,Extended cook cycle and held affected batch,88,B-2002,QA Inspector,Plant C,Evening
+2026-05-14,Cold-pressed Juice,Filling,Underfilled bottles,Medium,Filler head number 3 partially blocked,Cleaned filler head and repeated fill-weight check,24,B-2003,Line Leader,Plant A,Morning
+2026-05-14,Fresh-cut Mango,Cutting,Size inconsistency,Low,New blade guide installed incorrectly,Adjusted blade guide and coached operator,12,B-2004,Production Supervisor,Plant B,Evening
+2026-05-15,Ready-to-eat Salad,Storage,Temperature abuse,Critical,Cold room defrost cycle ran too long,Moved pallets to backup cold room and opened deviation,82,B-2005,QA Manager,Plant A,Night
+2026-05-15,Frozen Dumpling,Mixing,Incorrect ingredient ratio,Critical,Scale calibration overdue,Stopped batch and recalibrated scale,95,B-2006,Production Supervisor,Plant C,Morning
+2026-05-15,Frozen Dumpling,Mixing,Incorrect ingredient ratio,Critical,Scale calibration overdue,Stopped batch and recalibrated scale,95,B-2006,Production Supervisor,Plant C,Morning
+2026/05/16,Fresh-cut Pineapple,Washing,Foreign material,High,Incoming fruit sorting missed plastic fragment,Rejected affected raw material and reinforced sorting,42,B-2007,QA Inspector,Plant B,Morning
+2026-05-16,Cold-pressed Juice,Cooling,Temperature abuse,Critical,Chiller alarm not acknowledged,Quarantined product and escalated maintenance review,78,B-2008,QA Inspector,Plant A,Night
+05/17/2026,Ready-to-eat Salad,Packing,Label mismatch,High,Wrong allergen label loaded,Stopped line quarantined product and replaced label roll,50,B-2009,QA Inspector,Plant A,Evening
+2026-05-17,Frozen Dumpling,Metal Detection,Metal detector rejection,High,Metal detector sensitivity failed challenge test,Stopped line inspected belt and repeated challenge test,64,B-2010,QA Inspector,Plant C,Night
+2026-05-18,Fresh-cut Mango,Storage,Temperature abuse,Severe,Cold room door left open during staging,Moved product to backup storage and reviewed staging process,58,B-2011,Warehouse Staff,Plant B,Night
+2026-05-18,Cold-pressed Juice,Filling,Cap not tightened,Medium,Capping head torque set too low,Adjusted torque and verified cap tightness,20,B-2012,Line Leader,Plant A,Evening
+2026-05-19,Ready-to-eat Salad,Washing,Foreign material,High,Raw vegetable inspection missed insect fragment,Removed affected lot and added secondary inspection,36,B-2013,QA Inspector,Plant A,Morning
+2026-05-19,Fresh-cut Pineapple,Packing,Seal defect,Medium,Sealing jaw temperature unstable,Adjusted sealer and checked seal integrity,28,B-2014,Production Supervisor,Plant B,Evening
+2026-05-20,Frozen Dumpling,Packing,Label mismatch,High,Old carton sleeves left near line,Performed line clearance and relabeled cartons,47,B-2015,QA Inspector,Plant C,Morning
+2026-05-20,Cold-pressed Juice,Cooling,Temperature abuse,Critical,Delayed transfer after filling,Quarantined lot and revised transfer handoff,84,B-2016,QA Manager,Plant A,Night
+2026-05-21,Ready-to-eat Salad,Storage,Temperature abuse,critical,Backup cold room temperature probe out of calibration,Moved product and replaced probe,72,B-2017,QA Manager,Plant A,Night
+2026-05-21,Fresh-cut Mango,Packing,Label mismatch,Medium,Wrong product code selected on printer,Corrected code and verified next 30 packs,18,B-2018,Production Supervisor,Plant B,Morning
+2026-05-22,Frozen Dumpling,Mixing,Missing ingredient,High,,Held batch reviewed formulation record and retrained weighing operator,67,B-2019,QA Inspector,Plant C,Evening
+2026-05-22,Cold-pressed Juice,Filling,Underfilled bottles,Medium,Filler pressure sensor unstable,Adjusted sensor and repeated sample-weight checks,-10,B-2020,Line Leader,Plant A,Morning
+2026-05-23,Ready-to-eat Salad,Washing,Chlorine level out of range,,Operator missed hourly sanitizer check,Adjusted sanitizer and restarted hourly verification,30,B-2021,QA Inspector,Plant A,Evening
+2026-05-23,Fresh-cut Pineapple,Cutting,Size inconsistency,Low,Operator used incorrect cut-size guide,Corrected guide and performed line coaching,14,B-2022,Line Leader,Plant B,Morning
+2026-05-24,Frozen Dumpling,Cooking,Core temperature low,Critical,Steam valve response delayed,Extended cook time held batch and requested maintenance,91,B-2023,QA Inspector,Plant C,Evening
+2026-05-24,Ready-to-eat Salad,Packing,Seal defect,Medium,Film tension unstable during changeover,Adjusted tension and rechecked seals,26,B-2024,Production Supervisor,Plant A,Evening
+2026-05-25,Cold-pressed Juice,Storage,Temperature abuse,High,Cold storage loading exceeded holding time,Moved pallets and increased staging checks,54,B-2025,Warehouse Staff,Plant A,Night
+2026-05-25,Fresh-cut Pineapple,Washing,Chlorine level out of range,High,Manual sanitizer reading not documented,Adjusted concentration and retrained operator,34,B-2026,QA Inspector,Plant B,Morning
+2026-05-26,Frozen Dumpling,Metal Detection,Metal detector rejection,High,Possible metal fragments from worn forming die,Stopped line replaced die and inspected product,70,B-2027,QA Inspector,Plant C,Night
