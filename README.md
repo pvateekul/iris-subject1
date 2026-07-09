@@ -46,6 +46,9 @@
 2. Image detection with YOLO (Ultralytics) : [![Open In Colab](https://raw.githubusercontent.com/pvateekul/iris-subject1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/iris-subject1/blob/main/4_YOLO/2_ultralyrics.ipynb)
 
 3. No-code Version : [Slide](https://drive.google.com/file/d/1BStfovyg04we2XSQbIcnF720YdAGsmlY/view?usp=sharing)
+- Dataset 1 (Polyp) : [Download](https://drive.google.com/file/d/1eP3OJ8Jn8yzl9FftW6aYoL3Gt3GEnT2U/view?usp=sharing)
+- Dataset 2 (Food Defect Detection) : [Download](https://drive.google.com/file/d/1ofZ-fgz50rb1UdB6i8I5K09Tit1rKh4w/view?usp=sharing)
+
 
 
 ## Drive 
