@@ -6,10 +6,10 @@
 
 | Topic / Module | Presentation Slides |
 | :--- | :--- |
-| **1. Introduction to AI** | 📄 [Introduction to AI](https://drive.google.com/file/d/1khfYsyQuOlekRm-BDtzF0SGJYJrEvpYw/view?usp=sharing) |
-| **2. Prompt Engineering** | 📄 [Prompt Engineering, RAG & Agentic Workflow](https://drive.google.com/file/d/1V7kMGsOfLMAOAf5HayFW0UVyxbaygPPU/view?usp=sharing)<br>📄 [LangChain and LangGraph](https://drive.google.com/file/d/1qd8_2v6g6LV0g62Wqdp76MaI6B9qVRy9/view?usp=sharing) |
-| **3. Codex** | 📄 [Codex](https://drive.google.com/file/d/1OtlKd0QScAfh5pLxHytUOPzloWeXzMZb/view?usp=sharing) |
-| **4. NotebookLM** | 📄 [NotebookLM](https://drive.google.com/file/d/1VUTcZwt-1XYuufYBTutbQWzaIXKUpBl1/view?usp=sharing) |
+| **1. Introduction to AI** | 📄 [Introduction to AI](0_CourseOverview/IntroToAI.pdf) |
+| **2. Prompt Engineering** | 📄 [Prompt Engineering, RAG & Agentic Workflow](1_PromptEngineering/slides/PromptEng_RAG_Agentic.pdf)<br>📄 [LangChain and LangGraph](1_PromptEngineering/slides/LangChain_LangGraph.pdf) |
+| **3. Codex** | 📄 [Codex](2_Codex/slides/Codex.pdf) |
+| **4. NotebookLM** | 📄 [NotebookLM](3_NotebookLM/NotebookLM.pdf) |
 
 ---
 
@@ -32,7 +32,7 @@
 
 ## 2. Agentic AI with Codex
 
-1. Attachment: [Download Codex Lab Attachments (.zip)](https://drive.google.com/file/d/1PF0OG9tJpxZLZRZUKZ8O1F_ER180bqIx/view?usp=sharing)
+1. Attachment: [Download Codex Lab Attachments (.zip)](https://raw.githubusercontent.com/pvateekul/iris-subject1/main/2_Codex/assets/codex_lab_attachments.zip)
 2. Codex Lab Sheet [![Open In Google Docs](https://github.com/pvateekul/iris-subject1/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1SfCI6p4yOJ9RkIKWNJGU6aY3EctLOXwh/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true")
 
 ## 3. NotebookLM
@@ -45,7 +45,7 @@
 
 2. Image detection with YOLO (Ultralytics) : [![Open In Colab](https://raw.githubusercontent.com/pvateekul/iris-subject1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/iris-subject1/blob/main/4_YOLO/2_ultralyrics.ipynb)
 
-3. No-code Version : [Slide](https://drive.google.com/file/d/1BStfovyg04we2XSQbIcnF720YdAGsmlY/view?usp=sharing)
+3. No-code Version : [Slide](https://github.com/pvateekul/iris-subject1/blob/main/4_YOLO/Demo_Ultralytics.pdf)
 
 
 ## Drive 
