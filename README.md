@@ -55,3 +55,4 @@
 - Proposal Template : [![Open In Google Docs](https://github.com/pvateekul/iris-subject1/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1X5HVS30__mLIGc3Ot6LX-JZvIQ8UX91cj4yhGlg00SY/edit?usp=sharing)
 - Prompt Template : [![Open In Google Docs](https://github.com/pvateekul/iris-subject1/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/18MKXsmwg5TKUGHSZweTDkEqxqlgUEWF6ZiYVQ2YVt50/edit?usp=sharing)
 - Submission Coaching Batch 6: [Link](https://drive.google.com/drive/folders/1K0AjbOHPEurznCGcxd8uvWVk7O_4By_j?usp=sharing)
+- Submission Pitching Batch 6: [Link](https://drive.google.com/drive/folders/1SGqsE47SAQ3A0X162V_vF2ftYMUWILwv?usp=sharing)
